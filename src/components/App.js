@@ -4,7 +4,7 @@ import Test from "./Test";
 
 const App = () => {
   return (
-    <div id="main">
+    <div id="root">
       <Test />
     </div>
   )
