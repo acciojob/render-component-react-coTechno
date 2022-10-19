@@ -1,11 +1,11 @@
 import React from "react";
 import '../styles/App.css';
-import Test from "./Test";
 
 const App = () => {
   return (
     <div id="root">
-      <Test />
+      <p>I am learning React.</p>
+      <p>My life is getting better.</p>
     </div>
   )
 }
