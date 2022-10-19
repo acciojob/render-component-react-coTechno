@@ -2,7 +2,7 @@ import React from 'react'
 
 function Test() {
   return (
-    <div id= "root">
+    <div>
         <p>I am learning React.</p>
       <p>My life is getting better.</p>
     </div>
